@@ -9,7 +9,7 @@ Learning go lang from multiple sources
 ## Daily Progams
 
 > 1. Create a folder called `dayx` in `src`.
-> 1. cd `D:\YourFolder\learn-golang\src\dayx>` in `Integrated Terminal`.
+> 1. cd `D:\YourFolder\learn-golang\src\dayx>` in `Integrated Terminal`. (right click on the day folder and click on open in integrated terminal) or ctrl + ~
 > 1. Create a module
 
 ```powershell
